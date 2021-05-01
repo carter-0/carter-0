@@ -1,5 +1,9 @@
 ### Hello
-
+#### Things I did:
+* https://beanserver.xyz/
+* https://beanbattleshacks.net/
+* https://csjobs.net/
+* https://refractalmc.xyz/
 <!--
 **carter-0/carter-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
