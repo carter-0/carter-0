@@ -1,5 +1,6 @@
 ### Hello
 #### Things I did:
+* https://osu.carter.red
 * https://bots.carter.red/
 * https://beanserver.xyz/
 * https://beanbattleshacks.net/
