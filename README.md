@@ -1,5 +1,6 @@
 ### Hello
 #### Things I did:
+* [God Syria and Bashar Discord Bot](https://github.com/carter-0/GodSyriaAndBashar-Bot)
 * https://osu.carter.red - unfinished
 * https://bots.carter.red/
 * https://beanserver.xyz/
