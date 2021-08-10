@@ -5,8 +5,7 @@
 * https://bots.carter.red/
 * https://beanserver.xyz/
 * https://beanbattleshacks.net/
-* https://csjobs.net/
-* https://refractalmc.xyz/
+* https://csjobs.carter.red - archived from csjobs.net
 <!--
 **carter-0/carter-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
