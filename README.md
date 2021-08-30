@@ -1,11 +1,12 @@
 ### Hello
 #### Things I did:
-* https://osu.carter.red - unfinished
+* https://osu-restricts.carter.red
+* https://beanbattleshacks.net/
 * https://bots.carter.red/
 * https://beanserver.xyz/
-* https://beanbattleshacks.net/
-* [God Syria and Bashar Discord Bot](https://github.com/carter-0/GodSyriaAndBashar-Bot)
 * https://csjobs.carter.red - archived from csjobs.net
+* https://osu.carter.red - unfinished
+* [God Syria and Bashar Discord Bot](https://github.com/carter-0/GodSyriaAndBashar-Bot)
 <!--
 **carter-0/carter-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
