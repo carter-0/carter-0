@@ -1,9 +1,9 @@
 ### Hello
 #### Things I did:
-* https://osu-restricts.carter.red
-* https://beanbattleshacks.net/
-* https://bots.carter.red/
-* https://beanserver.xyz/
+* https://crypto-to.me
+* https://beanbattleshacks.net
+* https://bots.carter.red
+* https://beanserver.xyz
 * https://csjobs.carter.red - archived from csjobs.net
 * https://osu.carter.red - unfinished
 * [God Syria and Bashar Discord Bot](https://github.com/carter-0/GodSyriaAndBashar-Bot)
