@@ -1,5 +1,6 @@
 ### Hello
 #### Things I did:
+* https://theskets.com
 * https://topazbots.com
 * https://crypto-to.me
 * https://beanbattleshacks.net
