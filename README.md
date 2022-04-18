@@ -1,8 +1,5 @@
 ### Hello
 
-#### Things I'm doing:
-* [Redesign of The Skets website](https://github.com/carter-0/the-skets-frontend) to learn React
-
 #### Things I did:
 * https://theskets.com - January 2022
 * https://topazbots.com - December 2021
