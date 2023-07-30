@@ -12,7 +12,7 @@
 
 | Project | Link | Users | Description | Date Created |
 | ------- | ---- | ----- | ----------- | ------------ |
-| **CS Jobs** | [csjobs.net](https://csjobs.net) | 0 | Job board for computer science jobs | 9/07/2020 |
+| **CS Jobs** | [csjobs.net](https://csjobs.net) | 0 | Job board for computer science jobs (domain no longer mine) | 9/07/2020 |
 | **Refractal MC** | [refractalmc.xyz](https://refractalmc.xyz) | 0 | (never finished) Minecraft server | 23/08/2020 |
 | **Steamture** | [steamture.net](https://steamture.net) | 0 | Marketplace for buying Argentinian steam accounts | 9/06/2021 |
 | **Crypto To Me** | [crypto-to.me](https://crypto-to.me) | 97 | Like linktree for crypto addresses | 3/09/2021 |
