@@ -1,12 +1,17 @@
-# My websites
+**Full stack developer from the UK.**
+
+Currently working on [Trackify](https://trackify.am) (25K+ users) and various side projects.
+
+Contact -> carter@carter.red
+
+<details>
+<summary>Click for Details</summary>
+
+## Current websites
 
 | Project | Link | Users | Description | Date Created |
 | ------- | ---- | ----- | ----------- | ------------ |
 | **Trackify** | [trackify.am](https://trackify.am) | [26,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
-| **Bean Battles Hacks** | [BeanBattlesHacks.net](https://BeanBattlesHacks.net) | ~1,000 | Hacks for Bean Battles | 14/04/2021 |
-
-[![wakatime](https://wakatime.com/badge/user/7e00b909-a2bd-4160-8fa5-027f2d844940.svg)](https://wakatime.com/@7e00b909-a2bd-4160-8fa5-027f2d844940)
-![](https://komarev.com/ghpvc/?username=carter-0)
 
 ## WIP websites
 
@@ -25,3 +30,12 @@
 | **Crypto To Me** | [crypto-to.me](https://crypto-to.me) | 97 | Like linktree for crypto addresses | 3/09/2021 |
 | **Topaz Bots** | [topazbots.com](https://topazbots.com) | 10 | SaaS that facilitated the creation of twitter bots | 4/12/2021 |
 | **Ticket AI** | [ticketai.app](https://ticketai.app) | 13 | AI tool for managing Discord tickets | 30/05/2023 |
+| **Bean Battles Hacks** | [BeanBattlesHacks.net](https://BeanBattlesHacks.net) | ~1,000 | Hacks for Bean Battles | 14/04/2021 |
+</details>
+
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/7e00b909-a2bd-4160-8fa5-027f2d844940.svg)](https://wakatime.com/@7e00b909-a2bd-4160-8fa5-027f2d844940)
+![](https://komarev.com/ghpvc/?username=carter-0)
+
+
