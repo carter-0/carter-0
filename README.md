@@ -1,6 +1,6 @@
 **Full stack developer from the UK.**
 
-Currently working on [Trackify](https://trackify.am) (25K+ users) and various side projects.
+Currently working on [Trackify](https://trackify.am) (30K+ users) and various side projects.
 
 Contact -> carter@carter.red
 
@@ -11,7 +11,7 @@ Contact -> carter@carter.red
 
 | Project | Link | Users | Description | Date Created |
 | ------- | ---- | ----- | ----------- | ------------ |
-| **Trackify** | [trackify.am](https://trackify.am) | [26,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
+| **Trackify** | [trackify.am](https://trackify.am) | [30,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
 
 ## WIP websites
 
