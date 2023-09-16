@@ -1,4 +1,4 @@
-**Full stack developer from the UK.**
+**Software developer from the UK.**
 
 Currently working on [Trackify](https://trackify.am) (40K+ users) and various side projects.
 
