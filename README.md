@@ -9,20 +9,22 @@ Contact -> carter@carter.red
 
 ## Current websites
 
-| Project | Link | Users | Description | Date Created |
+| Project | Link | Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
 | **Trackify** | [trackify.am](https://trackify.am) | [40,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
 
 ## WIP websites
 
-| Project | Link | Users | Description | Date Created |
+| Project | Link | Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
-| **Apprenticeship List** | [apprenticeshiplist.com](https://apprenticeshiplist.com) | 0 | Convinient list of UK apprenticeships aggregated from multiple sources | 2023 |
-| **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 17 | AI tools for modifying Anki decks | 10/06/2023 |
+| **Apprenticeship List** | [apprenticeshiplist.com](https://apprenticeshiplist.com) | 0 | List of UK apprenticeships aggregated from multiple sources | 31/07/2023 |
+| **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 37 | AI tools for modifying Anki decks | 10/06/2023 |
+| **Pet Pictures Pro** | [petpicturespro.com](https://petpicturespro.com) | 0 | AI tools for generating pictures of pets from a small sample | 16/07/2023 |
+| **The Prospect** | [theprospect.band](https://theprospect.band) | N/A | Small static site for my friends' band | 02/12/2023 |
 
 ## Previous / failed websites
 
-| Project | Link | Users | Description | Date Created |
+| Project | Link | Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
 | **CS Jobs** | [csjobs.net](https://csjobs.net) | 0 | Job board for computer science jobs (domain no longer mine) | 9/07/2020 |
 | **Refractal MC** | [refractalmc.xyz](https://refractalmc.xyz) | 0 | (never finished) Minecraft server | 23/08/2020 |
