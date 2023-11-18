@@ -12,9 +12,9 @@ Contact -> carter@carter.red
 | Project | Link | Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
 | **Trackify** | [trackify.am](https://trackify.am) | [100,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
-| **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 59 | AI tools for modifying Anki decks | 10/06/2023 |
-| **Roast AI** | [roastai.app](https://roastai.app) | 8 | Get professionally roasted by AI | 08/11/2023 |
-| **Ticket AI** | [ticketai.app](https://ticketai.app) | 32 | AI tool for managing Discord tickets | 30/05/2023 |
+| **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 175 | AI tools for modifying Anki decks | 10/06/2023 |
+| **Roast AI** | [roastai.app](https://roastai.app) | 46 | Get professionally roasted by AI | 08/11/2023 |
+| **Ticket AI** | [ticketai.app](https://ticketai.app) | 58 | AI tool for managing Discord tickets | 30/05/2023 |
 | **The Prospect** | [theprospect.band](https://theprospect.band) | N/A | Small static site for my friends' band | 02/12/2023 |
 
 ## WIP websites
@@ -40,5 +40,3 @@ Contact -> carter@carter.red
 
 [![wakatime](https://wakatime.com/badge/user/7e00b909-a2bd-4160-8fa5-027f2d844940.svg)](https://wakatime.com/@7e00b909-a2bd-4160-8fa5-027f2d844940)
 ![](https://komarev.com/ghpvc/?username=carter-0)
-
-
