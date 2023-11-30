@@ -1,6 +1,6 @@
 **Software developer from the UK.**
 
-Currently working on [Trackify](https://trackify.am) (100K+ users) and various side projects.
+Currently working on [Trackify](https://trackify.am) (125K+ users) and various side projects.
 
 Contact -> carter@carter.red
 
@@ -11,7 +11,7 @@ Contact -> carter@carter.red
 
 | Project | Link | Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
-| **Trackify** | [trackify.am](https://trackify.am) | [100,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
+| **Trackify** | [trackify.am](https://trackify.am) | [125,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
 | **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 175 | AI tools for modifying Anki decks | 10/06/2023 |
 | **Roast AI** | [roastai.app](https://roastai.app) | 46 | Get professionally roasted by AI | 08/11/2023 |
 | **Ticket AI** | [ticketai.app](https://ticketai.app) | 58 | AI tool for managing Discord tickets | 30/05/2023 |
