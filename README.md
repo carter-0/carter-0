@@ -1,6 +1,6 @@
 **Software developer from the UK.**
 
-Currently working on [Trackify](https://trackify.am) (125K+ users) and various side projects.
+Currently working on [Trackify](https://trackify.am) (140K+ reg. users) and various side projects.
 
 Contact -> carter@carter.red
 
@@ -9,17 +9,17 @@ Contact -> carter@carter.red
 
 ## Current websites
 
-| Project | Link | Users | Description | Date Started |
+| Project | Link | Reg. Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
-| **Trackify** | [trackify.am](https://trackify.am) | [125,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
-| **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 175 | AI tools for modifying Anki decks | 10/06/2023 |
-| **Roast AI** | [roastai.app](https://roastai.app) | 46 | Get professionally roasted by AI | 08/11/2023 |
-| **Ticket AI** | [ticketai.app](https://ticketai.app) | 58 | AI tool for managing Discord tickets | 30/05/2023 |
+| **Trackify** | [trackify.am](https://trackify.am) | [140,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
+| **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 279 | AI tools for modifying Anki decks | 10/06/2023 |
+| **Roast AI** | [roastai.app](https://roastai.app) | 202 | Get professionally roasted by AI | 08/11/2023 |
+| **Ticket AI** | [ticketai.app](https://ticketai.app) | 75 | AI tool for managing Discord tickets | 30/05/2023 |
 | **The Prospect** | [theprospect.band](https://theprospect.band) | N/A | Small static site for my friends' band | 02/12/2023 |
 
 ## WIP websites
 
-| Project | Link | Users | Description | Date Started |
+| Project | Link | Reg. Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
 | **OpenAI Stats** | [openai-stats.carter.red](https://openai-stats.carter.red) | 0 | Stats for OpenAI API requests | 19/09/2023 |
 | **Apprenticeship List** | [apprenticeshiplist.com](https://apprenticeshiplist.com) | 0 | List of UK apprenticeships aggregated from multiple sources | 31/07/2023 |
@@ -27,7 +27,7 @@ Contact -> carter@carter.red
 
 ## Previous / failed websites
 
-| Project | Link | Users | Description | Date Started |
+| Project | Link | Reg. Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
 | **CS Jobs** | [csjobs.net](https://web.archive.org/web/20230925101257/https://csjobs.carter.red/) | 0 | Job board for computer science jobs (domain no longer mine) | 9/07/2020 |
 | **Steamture** | [steamture.net](https://web.archive.org/web/20230925101624/https://steamture.carter.red/) | 0 | Marketplace for buying Argentinian steam accounts | 9/06/2021 |
