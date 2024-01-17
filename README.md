@@ -7,7 +7,7 @@ Contact -> carter@carter.red
 
 ### Hi!
 
-I'm a 17 year old Software Engineer from the UK and I love building, marketing and scaling B2C products. The following is my portfolio of projects I've worked on so far (minus a few secret ones):
+I'm a 17 year old Software Engineer from the UK and I love building, marketing and scaling B2C products. The following is my portfolio of projects so far (minus a few secret ones):
 
 ## Current websites
 
