@@ -1,4 +1,4 @@
-Job -> making fun things online
+Job -> making things online
 
 Contact -> carter@carter.red
 
