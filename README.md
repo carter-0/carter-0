@@ -1,17 +1,19 @@
-**Software developer from the UK.**
-
-Currently working on [Trackify](https://trackify.am) (140K+ reg. users) and various side projects.
+Job -> making fun things online
 
 Contact -> carter@carter.red
 
 <details>
-<summary>Click for Details</summary>
+<summary>Details Here</summary>
+
+### Hi!
+
+I'm a 17 year old Software Engineer from the UK and I love building, marketing and scaling B2C products. The following is my portfolio of projects I've worked on so far (minus a few secret ones):
 
 ## Current websites
 
 | Project | Link | Reg. Users | Description | Date Started |
 | ------- | ---- | ----- | ----------- | ------------ |
-| **Trackify** | [trackify.am](https://trackify.am) | [140,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
+| **Trackify** | [trackify.am](https://trackify.am) | [150,000](https://trackify.am/meta) | Spotify stats web app | 19/03/2023 |
 | **Anki Decks** | [ankidecks.app](https://ankidecks.app) | 279 | AI tools for modifying Anki decks | 10/06/2023 |
 | **Roast AI** | [roastai.app](https://roastai.app) | 202 | Get professionally roasted by AI | 08/11/2023 |
 | **Ticket AI** | [ticketai.app](https://ticketai.app) | 75 | AI tool for managing Discord tickets | 30/05/2023 |
