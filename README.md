@@ -18,6 +18,7 @@ I'm a 17 year old Software Engineer from the UK and I love building, marketing a
 | **Roast AI** | [roastai.app](https://roastai.app) | 202 | Get professionally roasted by AI | 08/11/2023 |
 | **Ticket AI** | [ticketai.app](https://ticketai.app) | 75 | AI tool for managing Discord tickets | 30/05/2023 |
 | **The Prospect** | [theprospect.band](https://theprospect.band) | N/A | Small static site for my friends' band | 02/12/2023 |
+| **SalaryStates** | [salarystates](https://salarystates.com) | N/A | pSEO experiment | 04/02/2024 |
 
 ## WIP websites
 
